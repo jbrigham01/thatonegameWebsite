@@ -1,0 +1,25 @@
+#navbar {
+    margin-left: 0px !important;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    width:50vw;
+    background-color: aliceblue;
+
+}
+h1::before {
+    content: "!";
+  }
+
+h1:hover {
+    color: gold;
+}
+
+div a {
+    color: blue;
+    font-family:'Times New Roman', Times, serif;
+}
+
+div:nth-child(3) {
+    color: green;
+}
