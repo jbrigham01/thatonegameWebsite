@@ -7,7 +7,7 @@ const Navbar = () => {
         <a>Home</a>
         <a>About me</a>
         <a>Purchase</a>
-        <a>Sign up for email list</a>
+        <a>Email list</a>
     </div>
     </Fragment>
     )
