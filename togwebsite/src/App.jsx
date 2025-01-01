@@ -9,7 +9,7 @@ function App() {
     <Navbar></Navbar>
     <div style={{"width":"80vw", 'marginLeft':'auto','marginRight':'auto'}}>
       <h1>What is ThatOneGame?</h1>
-      <h2>It's the best name for this game I could come up with..</h2>
+      <h2>It's the best name for this game I could come up with.</h2>
       <h3>But besides that...!</h3>
       <div style={{"display":"inline",width:"auto", "flexDirection":"column", 'marginLeft':'auto','marginRight':'auto'}}>
       <img src="./src/assets/intro1.png"></img>
